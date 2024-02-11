@@ -4,4 +4,5 @@
 #asign the value to the variable
 x=100
 echo "the value of variable x is $x"
+echo "I modified the file"
 #End of the script.
